@@ -8,6 +8,6 @@
   [Projet DesJoursHeureux - WeedingPlanner](https://www.desjoursheureux.fr/) ❤️
   
 ### Reach me : 
-[JeanRoch](www.linkedin.com/in/jeanrochtomaso)
+[JeanRoch](https://www.linkedin.com/in/jeanrochtomaso/)
 
     Feel free to contact me for collaboration.
