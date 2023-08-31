@@ -10,4 +10,4 @@
 ### Reach me : 
 [JeanRoch](https://www.linkedin.com/in/jeanrochtomaso/)
 
-    Feel free to contact me for collaboration.
+Feel free to contact me for collaboration.
