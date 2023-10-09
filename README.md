@@ -13,7 +13,7 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 # 👾Tech Stack: 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-badge&logo=Spring&logoColor=white)
+![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
