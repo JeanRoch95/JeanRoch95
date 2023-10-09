@@ -2,6 +2,9 @@
 
 Je suis Jean-Roch Tomaso - Développeur Web Java.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jeanrochtomaso/)
+
+
 # 👾Tech Stack: 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
