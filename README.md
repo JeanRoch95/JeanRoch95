@@ -1,4 +1,5 @@
 ## Hi everybody 👋
+![image](https://github.com/JeanRoch95/JeanRoch95/assets/82611021/c2051fca-495d-49d3-b1a3-bfb89b4c144c)
 
  Je suis Jean-Roch Tomaso, Développeur Web.
 
