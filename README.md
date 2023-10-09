@@ -1,8 +1,8 @@
-## 🇫🇷About me ! 
+# 🇫🇷About me ! 
 
 Je suis Jean-Roch Tomaso - Développeur Web Java.
 
-## 👾Tech Stack: 
+# 👾Tech Stack: 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -21,7 +21,7 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-## 📊GitHub Stats : 
+# 📊GitHub Stats : 
 
 ![JeanRoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanroch95&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanroch95&layout=compact&theme=dracula)
