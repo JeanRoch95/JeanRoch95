@@ -6,6 +6,8 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 - **Ecole Studi | Digital Campus** ✅
 - **Développeur Java - OpenClassRooms** ⏳
 
+# 🌐Link
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeanrochtomaso/)
 
 
