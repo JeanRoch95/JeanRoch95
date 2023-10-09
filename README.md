@@ -1,6 +1,7 @@
 <h1 align="left">
   🇫🇷 About me ! 
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoV/giphy.gif" width="50" height="50" align="right">
+  <img src="![image](https://github.com/JeanRoch95/JeanRoch95/assets/82611021/d4fea158-f1ba-4f3a-9115-0e560f9e8b32)
+" width="50" height="50" align="right">
 </h1>
 
 Je suis Jean-Roch Tomaso - Développeur Web Java.
