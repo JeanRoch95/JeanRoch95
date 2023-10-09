@@ -13,7 +13,7 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 # 👾Tech Stack: 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -35,4 +35,6 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 ![JeanRoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanroch95&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanroch95&layout=compact&theme=dracula)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanroch95&theme=dracula)
+
 
