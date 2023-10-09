@@ -23,6 +23,6 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 ## 📊GitHub Stats : 
 
-![JeanRoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanroch95&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanroch95&layout=compact)
+![JeanRoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanroch95&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanroch95&layout=dracula)
 
