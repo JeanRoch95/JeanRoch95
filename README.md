@@ -1,6 +1,6 @@
 # 🇫🇷 About me ! 
 
-Je suis Jean-Roch Tomaso - Développeur Web Java.![Coding Cat]([https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoV/giphy.gif](https://media.tenor.com/gVCgzpv0B7AAAAAM/cat-cute.gif)
+Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 
 
