@@ -1,6 +1,10 @@
-# 🇫🇷About me ! 
+<h1 align="left">
+  🇫🇷 About me ! 
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoV/giphy.gif" width="50" height="50" align="right">
+</h1>
 
 Je suis Jean-Roch Tomaso - Développeur Web Java.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeanrochtomaso/)
 
