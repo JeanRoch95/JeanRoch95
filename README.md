@@ -14,6 +14,10 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 [Click here to see projet](https://github.com/JeanRoch95?tab=repositories)
 
+# ♨Java/SpringBoot Projet
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+[Click here to see projet](https://github.com/JeanRoch95/jeanroch-tomaso-paymybuddy-p6)
+
 
 # 👾Tech Stack: 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
