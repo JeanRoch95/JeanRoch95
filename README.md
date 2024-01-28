@@ -4,7 +4,7 @@ Je suis Jean-Roch Tomaso - Développeur Web Java.
 
 # 🎓 Formation
 - **Ecole Studi | Digital Campus** ✅
-- **Développeur Java - OpenClassRooms** ⏳
+- **Développeur Java - OpenClassRooms** ✅
 
 # 🌐Link
 
